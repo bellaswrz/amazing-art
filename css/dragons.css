@@ -1,0 +1,24 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: white;
+	text-align: center;
+}
+
+h1, h2, p, ol, ul{
+	font-family: 'Anton', sans-serif;
+}
+header h1{
+	color: #23657C;
+	font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+header img{
+	border-radius: 170px;
+	border: 20px solid black;
+}
+.big{
+	color: white;
+}
